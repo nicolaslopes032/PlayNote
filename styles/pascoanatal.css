@@ -1,0 +1,76 @@
+@charset "UTF-8";
+*{
+   margin: 3px;
+   
+}
+
+header{
+    display: flex;
+    justify-content:space-between;
+    padding: 5px 0px 5px 0px;
+    border-bottom: 1px solid #0000007a;
+    @media (max-width:600px){
+        border-bottom: none;
+
+    }
+}
+
+/*Aqui é a estilização da logo*/
+.logo{
+    padding: 3px;
+    margin-left: 200px;
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: Helvetica, Times, serif;
+    font-weight: 550;
+    @media (max-width: 600px){
+        padding: 5px;
+        margin-top: 3px;
+    }  
+            
+        
+}
+
+/*Aqui é a estilização dos botões do menu*/
+.button-container {
+    display: flex;
+    gap: 10px;
+    @media (max-width: 600px) {
+        
+    }
+            
+       
+}
+
+#ultimo{
+    margin-right: 250px;
+}
+
+.buttom{
+    padding: 7px 9px 7px 9px;
+    color: black;
+    font-size:  medium;
+    font-family: Helvetica, Times, serif;
+    font-weight: 550;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 8px;
+    
+}
+
+.buttom:hover{
+    background-color: rgb(237, 233, 233);
+
+}
+
+.buttom:focus{
+    outline: none;
+    box-shadow: none;
+}
+
+
+section{
+    margin-left:200px;
+    margin-right: 250px;
+}
