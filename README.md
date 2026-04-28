@@ -1,1 +1,2 @@
-# PlayNote
+# 🎵🎸🙏 PlayNote
+O PlayNote é uma plataforma web desenvolvida para capacitar e auxiliar músicos que servem na música cristã. Seja você um iniciante querendo aprender seus primeiros acordes ou um músico experiente em busca de cifras e aprofundamento teórico, o PlayNote foi feito para te acompanhar nessa jornada.
